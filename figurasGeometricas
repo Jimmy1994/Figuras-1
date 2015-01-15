@@ -42,5 +42,5 @@ public abstract class figurasGeometricas extends JPanel {
 	public void setPerimetro(double perimetro) {
 		this.perimetro = perimetro;
 	}
-	
+	//NOO VALE EDITAR MIJIN
 }
